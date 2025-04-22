@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.aba06725.css",
+    "main.js": "/react-portfolio/static/js/main.2cb654fd.js",
+    "static/media/200w.gif": "/react-portfolio/static/media/200w.ea85e60f6f285be76f86.gif",
+    "static/media/IMG_2733.JPG": "/react-portfolio/static/media/IMG_2733.1ff79001ce047bc46f37.JPG",
+    "static/media/taking-on-tyson-animal-planet_320-jpg": "/react-portfolio/static/media/taking-on-tyson-animal-planet_320-b5d01a0c8aec462aad27008f585bad4c.b2e9bf07d11cb4fd297c.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.aba06725.css.map": "/react-portfolio/static/css/main.aba06725.css.map",
+    "main.2cb654fd.js.map": "/react-portfolio/static/js/main.2cb654fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba06725.css",
+    "static/js/main.2cb654fd.js"
+  ]
+}
