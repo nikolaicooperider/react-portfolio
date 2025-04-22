@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, var(--pink), var(--orange));
+    padding: 1rem 2rem;
+    color: var(--text-light);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-links {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+}
+
+.navbar-links li a {
+    color: var(--text-light);
+    padding-bottom: 2px;
+    border-bottom: 2px solid transparent;
+    transition: border 0.2s ease;
+}
+
+.navbar-links .active a {
+    border-color: var(--text-light);
+}
